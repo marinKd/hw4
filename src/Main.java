@@ -83,7 +83,7 @@ class Movie{
 
 class Main{
 	public static void main(String[] args) throws Exception{
-		BufferedReader stdin = new BufferedReader(new FileReader("movies.csv"));
+		BufferedReader stdin = new BufferedReader(new FileReader("./data/movies.csv"));
 		//lines is ArrayList of lines
 		//line is array of line contents
 		ArrayList<String[]> lines = new ArrayList<String[]>();
