@@ -1,0 +1,1822 @@
+Complete data set
+1828 Action movies
+1263 Adventure movies
+611 Animation movies
+3756 Comedy movies
+1199 Crime movies
+664 Children movies
+440 Documentary movies
+4361 Drama movies
+1596 Romance movies
+779 Fantasy movies
+980 Sci-fi movies
+1894 Thriller movies
+978 Horror movies
+334 Musical movies
+573 Mystery movies
+382 War movies
+167 Western movies
+
+
+
+Released in the last 5 years
+102 Action movies
+72 Adventure movies
+43 Animation movies
+148 Comedy movies
+34 Crime movies
+25 Children movies
+25 Documentary movies
+123 Drama movies
+25 Romance movies
+43 Fantasy movies
+60 Sci-fi movies
+76 Thriller movies
+33 Horror movies
+0 Musical movies
+19 Mystery movies
+6 War movies
+3 Western movies
+----
+----
+----
+
+
+Released in 1930
+1 action movies
+0 adventure  movies
+0 animation  movies
+1 comedy  movies
+0 crime  movies
+0 children's  movies
+0 documentary  movies
+4 drama  movies
+1 romance  movies
+0 fantasy  movies
+0 sci-fi  movies
+0 thriller  movies
+0 horror  movies
+1 musical  movies
+0 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1931
+1 action movies
+0 adventure  movies
+0 animation  movies
+4 comedy  movies
+3 crime  movies
+0 children's  movies
+0 documentary  movies
+9 drama  movies
+3 romance  movies
+0 fantasy  movies
+1 sci-fi  movies
+1 thriller  movies
+3 horror  movies
+1 musical  movies
+1 mystery  movies
+0 war  movies
+1 western  movies
+
+
+Released in 1932
+0 action movies
+0 adventure  movies
+0 animation  movies
+3 comedy  movies
+3 crime  movies
+0 children's  movies
+0 documentary  movies
+4 drama  movies
+4 romance  movies
+0 fantasy  movies
+0 sci-fi  movies
+0 thriller  movies
+2 horror  movies
+0 musical  movies
+0 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1933
+1 action movies
+2 adventure  movies
+0 animation  movies
+5 comedy  movies
+1 crime  movies
+1 children's  movies
+0 documentary  movies
+4 drama  movies
+4 romance  movies
+2 fantasy  movies
+1 sci-fi  movies
+1 thriller  movies
+3 horror  movies
+4 musical  movies
+1 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1934
+0 action movies
+0 adventure  movies
+0 animation  movies
+6 comedy  movies
+1 crime  movies
+1 children's  movies
+2 documentary  movies
+4 drama  movies
+3 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+1 thriller  movies
+0 horror  movies
+2 musical  movies
+0 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1935
+1 action movies
+2 adventure  movies
+0 animation  movies
+7 comedy  movies
+0 crime  movies
+0 children's  movies
+0 documentary  movies
+6 drama  movies
+6 romance  movies
+1 fantasy  movies
+1 sci-fi  movies
+1 thriller  movies
+1 horror  movies
+4 musical  movies
+1 mystery  movies
+0 war  movies
+0 western  movies
+
+
+Released in 1936
+0 action movies
+2 adventure  movies
+0 animation  movies
+7 comedy  movies
+2 crime  movies
+0 children's  movies
+0 documentary  movies
+7 drama  movies
+10 romance  movies
+0 fantasy  movies
+0 sci-fi  movies
+3 thriller  movies
+0 horror  movies
+4 musical  movies
+1 mystery  movies
+0 war  movies
+1 western  movies
+
+
+Released in 1937
+1 action movies
+2 adventure  movies
+1 animation  movies
+3 comedy  movies
+2 crime  movies
+2 children's  movies
+0 documentary  movies
+12 drama  movies
+4 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+1 thriller  movies
+0 horror  movies
+3 musical  movies
+0 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1938
+2 action movies
+1 adventure  movies
+2 animation  movies
+8 comedy  movies
+1 crime  movies
+2 children's  movies
+0 documentary  movies
+9 drama  movies
+4 romance  movies
+2 fantasy  movies
+0 sci-fi  movies
+2 thriller  movies
+0 horror  movies
+1 musical  movies
+1 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1939
+1 action movies
+4 adventure  movies
+2 animation  movies
+9 comedy  movies
+2 crime  movies
+4 children's  movies
+0 documentary  movies
+15 drama  movies
+9 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+1 thriller  movies
+0 horror  movies
+2 musical  movies
+1 mystery  movies
+2 war  movies
+2 western  movies
+
+
+Released in 1940
+2 action movies
+3 adventure  movies
+2 animation  movies
+11 comedy  movies
+0 crime  movies
+2 children's  movies
+0 documentary  movies
+14 drama  movies
+9 romance  movies
+3 fantasy  movies
+2 sci-fi  movies
+3 thriller  movies
+1 horror  movies
+3 musical  movies
+2 mystery  movies
+1 war  movies
+2 western  movies
+
+
+Released in 1941
+0 action movies
+1 adventure  movies
+1 animation  movies
+8 comedy  movies
+2 crime  movies
+1 children's  movies
+0 documentary  movies
+9 drama  movies
+6 romance  movies
+2 fantasy  movies
+0 sci-fi  movies
+2 thriller  movies
+2 horror  movies
+2 musical  movies
+4 mystery  movies
+1 war  movies
+0 western  movies
+
+
+Released in 1942
+1 action movies
+0 adventure  movies
+1 animation  movies
+9 comedy  movies
+3 crime  movies
+1 children's  movies
+0 documentary  movies
+13 drama  movies
+10 romance  movies
+0 fantasy  movies
+0 sci-fi  movies
+5 thriller  movies
+1 horror  movies
+2 musical  movies
+2 mystery  movies
+3 war  movies
+0 western  movies
+
+
+Released in 1943
+0 action movies
+1 adventure  movies
+0 animation  movies
+0 comedy  movies
+2 crime  movies
+0 children's  movies
+0 documentary  movies
+8 drama  movies
+1 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+2 thriller  movies
+2 horror  movies
+0 musical  movies
+0 mystery  movies
+1 war  movies
+1 western  movies
+
+
+Released in 1944
+1 action movies
+2 adventure  movies
+0 animation  movies
+4 comedy  movies
+2 crime  movies
+1 children's  movies
+0 documentary  movies
+11 drama  movies
+5 romance  movies
+0 fantasy  movies
+0 sci-fi  movies
+3 thriller  movies
+0 horror  movies
+2 musical  movies
+2 mystery  movies
+4 war  movies
+0 western  movies
+
+
+Released in 1945
+0 action movies
+0 adventure  movies
+1 animation  movies
+2 comedy  movies
+3 crime  movies
+1 children's  movies
+0 documentary  movies
+7 drama  movies
+2 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+3 thriller  movies
+4 horror  movies
+2 musical  movies
+6 mystery  movies
+3 war  movies
+0 western  movies
+
+
+Released in 1946
+0 action movies
+1 adventure  movies
+1 animation  movies
+1 comedy  movies
+5 crime  movies
+3 children's  movies
+0 documentary  movies
+14 drama  movies
+5 romance  movies
+2 fantasy  movies
+0 sci-fi  movies
+5 thriller  movies
+0 horror  movies
+4 musical  movies
+4 mystery  movies
+2 war  movies
+2 western  movies
+
+
+Released in 1947
+0 action movies
+0 adventure  movies
+0 animation  movies
+9 comedy  movies
+6 crime  movies
+0 children's  movies
+0 documentary  movies
+12 drama  movies
+6 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+2 thriller  movies
+0 horror  movies
+1 musical  movies
+2 mystery  movies
+0 war  movies
+0 western  movies
+
+
+Released in 1948
+3 action movies
+4 adventure  movies
+0 animation  movies
+3 comedy  movies
+4 crime  movies
+1 children's  movies
+0 documentary  movies
+15 drama  movies
+3 romance  movies
+1 fantasy  movies
+0 sci-fi  movies
+4 thriller  movies
+1 horror  movies
+2 musical  movies
+1 mystery  movies
+1 war  movies
+2 western  movies
+
+
+Released in 1949
+1 action movies
+1 adventure  movies
+2 animation  movies
+8 comedy  movies
+2 crime  movies
+2 children's  movies
+1 documentary  movies
+15 drama  movies
+7 romance  movies
+0 fantasy  movies
+0 sci-fi  movies
+3 thriller  movies
+1 horror  movies
+3 musical  movies
+2 mystery  movies
+2 war  movies
+2 western  movies
+
+
+Released in 1950
+1 action movies
+2 adventure  movies
+1 animation  movies
+6 comedy  movies
+3 crime  movies
+2 children's  movies
+0 documentary  movies
+10 drama  movies
+9 romance  movies
+2 fantasy  movies
+0 sci-fi  movies
+1 thriller  movies
+0 horror  movies
+2 musical  movies
+4 mystery  movies
+1 war  movies
+4 western  movies
+
+
+Released in 1951
+1 action movies
+3 adventure  movies
+1 animation  movies
+5 comedy  movies
+2 crime  movies
+1 children's  movies
+0 documentary  movies
+12 drama  movies
+7 romance  movies
+2 fantasy  movies
+4 sci-fi  movies
+2 thriller  movies
+1 horror  movies
+5 musical  movies
+0 mystery  movies
+3 war  movies
+0 western  movies
+
+
+Released in 1952
+0 action movies
+2 adventure  movies
+0 animation  movies
+7 comedy  movies
+0 crime  movies
+0 children's  movies
+0 documentary  movies
+9 drama  movies
+6 romance  movies
+0 fantasy  movies
+1 sci-fi  movies
+0 thriller  movies
+0 horror  movies
+1 musical  movies
+0 mystery  movies
+1 war  movies
+1 western  movies
+
+
+Released in 1953
+3 action movies
+3 adventure  movies
+2 animation  movies
+9 comedy  movies
+2 crime  movies
+3 children's  movies
+0 documentary  movies
+17 drama  movies
+7 romance  movies
+2 fantasy  movies
+2 sci-fi  movies
+5 thriller  movies
+1 horror  movies
+6 musical  movies
+1 mystery  movies
+2 war  movies
+2 western  movies
+
+
+Released in 1954
+1 action movies
+3 adventure  movies
+1 animation  movies
+3 comedy  movies
+4 crime  movies
+0 children's  movies
+0 documentary  movies
+15 drama  movies
+4 romance  movies
+1 fantasy  movies
+4 sci-fi  movies
+4 thriller  movies
+3 horror  movies
+4 musical  movies
+2 mystery  movies
+1 war  movies
+1 western  movies
+
+
+Released in 1955
+1 action movies
+1 adventure  movies
+1 animation  movies
+8 comedy  movies
+8 crime  movies
+1 children's  movies
+1 documentary  movies
+21 drama  movies
+8 romance  movies
+0 fantasy  movies
+2 sci-fi  movies
+6 thriller  movies
+2 horror  movies
+2 musical  movies
+4 mystery  movies
+4 war  movies
+3 western  movies
+
+
+Released in 1956
+0 action movies
+5 adventure  movies
+0 animation  movies
+4 comedy  movies
+2 crime  movies
+1 children's  movies
+0 documentary  movies
+18 drama  movies
+4 romance  movies
+1 fantasy  movies
+6 sci-fi  movies
+4 thriller  movies
+4 horror  movies
+4 musical  movies
+1 mystery  movies
+1 war  movies
+4 western  movies
+
+
+Released in 1957
+2 action movies
+2 adventure  movies
+0 animation  movies
+8 comedy  movies
+0 crime  movies
+1 children's  movies
+0 documentary  movies
+18 drama  movies
+6 romance  movies
+0 fantasy  movies
+5 sci-fi  movies
+4 thriller  movies
+3 horror  movies
+3 musical  movies
+1 mystery  movies
+4 war  movies
+1 western  movies
+
+
+Released in 1958
+3 action movies
+4 adventure  movies
+0 animation  movies
+10 comedy  movies
+5 crime  movies
+0 children's  movies
+0 documentary  movies
+11 drama  movies
+7 romance  movies
+2 fantasy  movies
+4 sci-fi  movies
+4 thriller  movies
+4 horror  movies
+3 musical  movies
+2 mystery  movies
+3 war  movies
+1 western  movies
+
+
+Released in 1959
+3 action movies
+5 adventure  movies
+1 animation  movies
+7 comedy  movies
+3 crime  movies
+4 children's  movies
+0 documentary  movies
+15 drama  movies
+6 romance  movies
+1 fantasy  movies
+7 sci-fi  movies
+2 thriller  movies
+7 horror  movies
+2 musical  movies
+2 mystery  movies
+8 war  movies
+2 western  movies
+
+
+Released in 1960
+4 action movies
+3 adventure  movies
+0 animation  movies
+7 comedy  movies
+7 crime  movies
+4 children's  movies
+0 documentary  movies
+19 drama  movies
+6 romance  movies
+1 fantasy  movies
+4 sci-fi  movies
+3 thriller  movies
+8 horror  movies
+2 musical  movies
+2 mystery  movies
+4 war  movies
+3 western  movies
+
+
+Released in 1961
+3 action movies
+6 adventure  movies
+1 animation  movies
+12 comedy  movies
+1 crime  movies
+4 children's  movies
+0 documentary  movies
+18 drama  movies
+10 romance  movies
+3 fantasy  movies
+3 sci-fi  movies
+1 thriller  movies
+3 horror  movies
+3 musical  movies
+0 mystery  movies
+3 war  movies
+2 western  movies
+
+
+Released in 1962
+4 action movies
+7 adventure  movies
+0 animation  movies
+7 comedy  movies
+4 crime  movies
+2 children's  movies
+1 documentary  movies
+24 drama  movies
+7 romance  movies
+3 fantasy  movies
+3 sci-fi  movies
+5 thriller  movies
+4 horror  movies
+3 musical  movies
+1 mystery  movies
+4 war  movies
+3 western  movies
+
+
+Released in 1963
+5 action movies
+9 adventure  movies
+1 animation  movies
+15 comedy  movies
+6 crime  movies
+3 children's  movies
+0 documentary  movies
+15 drama  movies
+3 romance  movies
+3 fantasy  movies
+4 sci-fi  movies
+7 thriller  movies
+6 horror  movies
+1 musical  movies
+2 mystery  movies
+4 war  movies
+1 western  movies
+
+
+Released in 1964
+6 action movies
+6 adventure  movies
+3 animation  movies
+17 comedy  movies
+2 crime  movies
+2 children's  movies
+1 documentary  movies
+17 drama  movies
+7 romance  movies
+5 fantasy  movies
+3 sci-fi  movies
+7 thriller  movies
+5 horror  movies
+6 musical  movies
+3 mystery  movies
+7 war  movies
+2 western  movies
+
+
+Released in 1965
+9 action movies
+9 adventure  movies
+3 animation  movies
+17 comedy  movies
+4 crime  movies
+4 children's  movies
+0 documentary  movies
+24 drama  movies
+9 romance  movies
+2 fantasy  movies
+4 sci-fi  movies
+9 thriller  movies
+3 horror  movies
+4 musical  movies
+4 mystery  movies
+4 war  movies
+4 western  movies
+
+
+Released in 1966
+4 action movies
+5 adventure  movies
+3 animation  movies
+19 comedy  movies
+6 crime  movies
+3 children's  movies
+1 documentary  movies
+18 drama  movies
+7 romance  movies
+1 fantasy  movies
+3 sci-fi  movies
+3 thriller  movies
+1 horror  movies
+3 musical  movies
+2 mystery  movies
+6 war  movies
+3 western  movies
+
+
+Released in 1967
+8 action movies
+5 adventure  movies
+1 animation  movies
+14 comedy  movies
+6 crime  movies
+4 children's  movies
+2 documentary  movies
+23 drama  movies
+3 romance  movies
+1 fantasy  movies
+3 sci-fi  movies
+5 thriller  movies
+4 horror  movies
+5 musical  movies
+3 mystery  movies
+1 war  movies
+1 western  movies
+
+
+Released in 1968
+7 action movies
+9 adventure  movies
+7 animation  movies
+13 comedy  movies
+4 crime  movies
+8 children's  movies
+3 documentary  movies
+17 drama  movies
+4 romance  movies
+2 fantasy  movies
+7 sci-fi  movies
+5 thriller  movies
+5 horror  movies
+8 musical  movies
+2 mystery  movies
+3 war  movies
+3 western  movies
+
+
+Released in 1969
+6 action movies
+6 adventure  movies
+5 animation  movies
+11 comedy  movies
+3 crime  movies
+6 children's  movies
+0 documentary  movies
+17 drama  movies
+4 romance  movies
+4 fantasy  movies
+1 sci-fi  movies
+4 thriller  movies
+1 horror  movies
+4 musical  movies
+1 mystery  movies
+4 war  movies
+6 western  movies
+
+
+Released in 1970
+5 action movies
+3 adventure  movies
+3 animation  movies
+10 comedy  movies
+4 crime  movies
+4 children's  movies
+0 documentary  movies
+18 drama  movies
+4 romance  movies
+3 fantasy  movies
+1 sci-fi  movies
+5 thriller  movies
+2 horror  movies
+1 musical  movies
+2 mystery  movies
+7 war  movies
+3 western  movies
+
+
+Released in 1971
+17 action movies
+6 adventure  movies
+2 animation  movies
+12 comedy  movies
+8 crime  movies
+3 children's  movies
+1 documentary  movies
+20 drama  movies
+3 romance  movies
+1 fantasy  movies
+5 sci-fi  movies
+13 thriller  movies
+1 horror  movies
+3 musical  movies
+6 mystery  movies
+2 war  movies
+3 western  movies
+
+
+Released in 1972
+6 action movies
+5 adventure  movies
+1 animation  movies
+15 comedy  movies
+5 crime  movies
+1 children's  movies
+0 documentary  movies
+22 drama  movies
+4 romance  movies
+1 fantasy  movies
+6 sci-fi  movies
+7 thriller  movies
+4 horror  movies
+2 musical  movies
+3 mystery  movies
+1 war  movies
+2 western  movies
+
+
+Released in 1973
+13 action movies
+7 adventure  movies
+5 animation  movies
+13 comedy  movies
+17 crime  movies
+3 children's  movies
+0 documentary  movies
+29 drama  movies
+3 romance  movies
+2 fantasy  movies
+10 sci-fi  movies
+14 thriller  movies
+10 horror  movies
+2 musical  movies
+3 mystery  movies
+1 war  movies
+3 western  movies
+
+
+Released in 1974
+11 action movies
+5 adventure  movies
+1 animation  movies
+13 comedy  movies
+10 crime  movies
+3 children's  movies
+2 documentary  movies
+20 drama  movies
+6 romance  movies
+3 fantasy  movies
+2 sci-fi  movies
+12 thriller  movies
+6 horror  movies
+1 musical  movies
+4 mystery  movies
+0 war  movies
+1 western  movies
+
+
+Released in 1975
+7 action movies
+7 adventure  movies
+1 animation  movies
+12 comedy  movies
+5 crime  movies
+2 children's  movies
+1 documentary  movies
+19 drama  movies
+7 romance  movies
+2 fantasy  movies
+7 sci-fi  movies
+5 thriller  movies
+5 horror  movies
+3 musical  movies
+4 mystery  movies
+1 war  movies
+1 western  movies
+
+
+Released in 1976
+7 action movies
+8 adventure  movies
+1 animation  movies
+16 comedy  movies
+8 crime  movies
+3 children's  movies
+1 documentary  movies
+21 drama  movies
+4 romance  movies
+3 fantasy  movies
+4 sci-fi  movies
+15 thriller  movies
+5 horror  movies
+1 musical  movies
+6 mystery  movies
+3 war  movies
+2 western  movies
+
+
+Released in 1977
+9 action movies
+12 adventure  movies
+6 animation  movies
+21 comedy  movies
+4 crime  movies
+8 children's  movies
+2 documentary  movies
+27 drama  movies
+6 romance  movies
+9 fantasy  movies
+4 sci-fi  movies
+7 thriller  movies
+8 horror  movies
+4 musical  movies
+3 mystery  movies
+6 war  movies
+1 western  movies
+
+
+Released in 1978
+15 action movies
+8 adventure  movies
+3 animation  movies
+19 comedy  movies
+4 crime  movies
+6 children's  movies
+4 documentary  movies
+17 drama  movies
+2 romance  movies
+5 fantasy  movies
+8 sci-fi  movies
+7 thriller  movies
+12 horror  movies
+2 musical  movies
+4 mystery  movies
+4 war  movies
+1 western  movies
+
+
+Released in 1979
+13 action movies
+10 adventure  movies
+3 animation  movies
+24 comedy  movies
+5 crime  movies
+5 children's  movies
+0 documentary  movies
+32 drama  movies
+5 romance  movies
+2 fantasy  movies
+12 sci-fi  movies
+10 thriller  movies
+10 horror  movies
+4 musical  movies
+3 mystery  movies
+3 war  movies
+2 western  movies
+
+
+Released in 1980
+18 action movies
+12 adventure  movies
+1 animation  movies
+29 comedy  movies
+5 crime  movies
+2 children's  movies
+1 documentary  movies
+32 drama  movies
+10 romance  movies
+2 fantasy  movies
+14 sci-fi  movies
+10 thriller  movies
+18 horror  movies
+4 musical  movies
+6 mystery  movies
+3 war  movies
+1 western  movies
+
+
+Released in 1981
+20 action movies
+15 adventure  movies
+5 animation  movies
+32 comedy  movies
+7 crime  movies
+3 children's  movies
+2 documentary  movies
+31 drama  movies
+9 romance  movies
+8 fantasy  movies
+12 sci-fi  movies
+19 thriller  movies
+16 horror  movies
+3 musical  movies
+7 mystery  movies
+5 war  movies
+0 western  movies
+
+
+Released in 1982
+14 action movies
+10 adventure  movies
+6 animation  movies
+32 comedy  movies
+5 crime  movies
+6 children's  movies
+5 documentary  movies
+29 drama  movies
+12 romance  movies
+7 fantasy  movies
+11 sci-fi  movies
+13 thriller  movies
+15 horror  movies
+8 musical  movies
+6 mystery  movies
+3 war  movies
+1 western  movies
+
+
+Released in 1983
+15 action movies
+9 adventure  movies
+5 animation  movies
+31 comedy  movies
+8 crime  movies
+5 children's  movies
+5 documentary  movies
+29 drama  movies
+7 romance  movies
+7 fantasy  movies
+10 sci-fi  movies
+13 thriller  movies
+13 horror  movies
+3 musical  movies
+4 mystery  movies
+2 war  movies
+1 western  movies
+
+
+Released in 1984
+17 action movies
+18 adventure  movies
+4 animation  movies
+40 comedy  movies
+7 crime  movies
+5 children's  movies
+2 documentary  movies
+35 drama  movies
+12 romance  movies
+11 fantasy  movies
+18 sci-fi  movies
+13 thriller  movies
+12 horror  movies
+7 musical  movies
+2 mystery  movies
+5 war  movies
+0 western  movies
+
+
+Released in 1985
+23 action movies
+31 adventure  movies
+4 animation  movies
+54 comedy  movies
+11 crime  movies
+11 children's  movies
+4 documentary  movies
+45 drama  movies
+22 romance  movies
+16 fantasy  movies
+18 sci-fi  movies
+18 thriller  movies
+16 horror  movies
+1 musical  movies
+7 mystery  movies
+5 war  movies
+2 western  movies
+
+
+Released in 1986
+27 action movies
+24 adventure  movies
+9 animation  movies
+54 comedy  movies
+19 crime  movies
+10 children's  movies
+0 documentary  movies
+55 drama  movies
+15 romance  movies
+10 fantasy  movies
+19 sci-fi  movies
+21 thriller  movies
+23 horror  movies
+4 musical  movies
+7 mystery  movies
+4 war  movies
+1 western  movies
+
+
+Released in 1987
+31 action movies
+17 adventure  movies
+9 animation  movies
+77 comedy  movies
+21 crime  movies
+8 children's  movies
+1 documentary  movies
+56 drama  movies
+28 romance  movies
+16 fantasy  movies
+20 sci-fi  movies
+24 thriller  movies
+28 horror  movies
+2 musical  movies
+7 mystery  movies
+8 war  movies
+3 western  movies
+
+
+Released in 1988
+29 action movies
+18 adventure  movies
+11 animation  movies
+72 comedy  movies
+19 crime  movies
+10 children's  movies
+4 documentary  movies
+67 drama  movies
+23 romance  movies
+16 fantasy  movies
+17 sci-fi  movies
+29 thriller  movies
+24 horror  movies
+6 musical  movies
+10 mystery  movies
+7 war  movies
+2 western  movies
+
+
+Released in 1989
+33 action movies
+16 adventure  movies
+9 animation  movies
+71 comedy  movies
+22 crime  movies
+9 children's  movies
+2 documentary  movies
+60 drama  movies
+16 romance  movies
+13 fantasy  movies
+17 sci-fi  movies
+20 thriller  movies
+11 horror  movies
+3 musical  movies
+6 mystery  movies
+5 war  movies
+1 western  movies
+
+
+Released in 1990
+35 action movies
+20 adventure  movies
+6 animation  movies
+59 comedy  movies
+24 crime  movies
+8 children's  movies
+2 documentary  movies
+62 drama  movies
+26 romance  movies
+15 fantasy  movies
+17 sci-fi  movies
+32 thriller  movies
+23 horror  movies
+3 musical  movies
+6 mystery  movies
+8 war  movies
+4 western  movies
+
+
+Released in 1991
+26 action movies
+18 adventure  movies
+6 animation  movies
+69 comedy  movies
+17 crime  movies
+7 children's  movies
+4 documentary  movies
+63 drama  movies
+31 romance  movies
+14 fantasy  movies
+13 sci-fi  movies
+22 thriller  movies
+9 horror  movies
+7 musical  movies
+10 mystery  movies
+1 war  movies
+2 western  movies
+
+
+Released in 1992
+31 action movies
+12 adventure  movies
+8 animation  movies
+69 comedy  movies
+23 crime  movies
+13 children's  movies
+6 documentary  movies
+78 drama  movies
+36 romance  movies
+9 fantasy  movies
+10 sci-fi  movies
+32 thriller  movies
+13 horror  movies
+5 musical  movies
+5 mystery  movies
+4 war  movies
+3 western  movies
+
+
+Released in 1993
+43 action movies
+19 adventure  movies
+9 animation  movies
+77 comedy  movies
+20 crime  movies
+17 children's  movies
+3 documentary  movies
+99 drama  movies
+33 romance  movies
+15 fantasy  movies
+14 sci-fi  movies
+32 thriller  movies
+12 horror  movies
+4 musical  movies
+12 mystery  movies
+5 war  movies
+3 western  movies
+
+
+Released in 1994
+40 action movies
+30 adventure  movies
+12 animation  movies
+111 comedy  movies
+27 crime  movies
+24 children's  movies
+7 documentary  movies
+114 drama  movies
+41 romance  movies
+16 fantasy  movies
+11 sci-fi  movies
+35 thriller  movies
+15 horror  movies
+3 musical  movies
+8 mystery  movies
+6 war  movies
+7 western  movies
+
+
+Released in 1995
+44 action movies
+29 adventure  movies
+13 animation  movies
+91 comedy  movies
+33 crime  movies
+29 children's  movies
+6 documentary  movies
+123 drama  movies
+49 romance  movies
+16 fantasy  movies
+20 sci-fi  movies
+42 thriller  movies
+19 horror  movies
+4 musical  movies
+18 mystery  movies
+14 war  movies
+6 western  movies
+
+
+Released in 1996
+41 action movies
+35 adventure  movies
+9 animation  movies
+108 comedy  movies
+32 crime  movies
+23 children's  movies
+12 documentary  movies
+128 drama  movies
+53 romance  movies
+13 fantasy  movies
+21 sci-fi  movies
+61 thriller  movies
+15 horror  movies
+9 musical  movies
+10 mystery  movies
+3 war  movies
+1 western  movies
+
+
+Released in 1997
+51 action movies
+26 adventure  movies
+11 animation  movies
+94 comedy  movies
+33 crime  movies
+25 children's  movies
+8 documentary  movies
+125 drama  movies
+51 romance  movies
+15 fantasy  movies
+22 sci-fi  movies
+64 thriller  movies
+18 horror  movies
+6 musical  movies
+21 mystery  movies
+7 war  movies
+0 western  movies
+
+
+Released in 1998
+47 action movies
+31 adventure  movies
+18 animation  movies
+99 comedy  movies
+36 crime  movies
+24 children's  movies
+12 documentary  movies
+122 drama  movies
+56 romance  movies
+19 fantasy  movies
+28 sci-fi  movies
+52 thriller  movies
+14 horror  movies
+8 musical  movies
+11 mystery  movies
+8 war  movies
+2 western  movies
+
+
+Released in 1999
+34 action movies
+19 adventure  movies
+8 animation  movies
+113 comedy  movies
+19 crime  movies
+13 children's  movies
+13 documentary  movies
+124 drama  movies
+46 romance  movies
+17 fantasy  movies
+17 sci-fi  movies
+48 thriller  movies
+22 horror  movies
+4 musical  movies
+14 mystery  movies
+4 war  movies
+2 western  movies
+
+
+Released in 2000
+39 action movies
+23 adventure  movies
+18 animation  movies
+117 comedy  movies
+39 crime  movies
+17 children's  movies
+14 documentary  movies
+138 drama  movies
+57 romance  movies
+18 fantasy  movies
+19 sci-fi  movies
+59 thriller  movies
+23 horror  movies
+4 musical  movies
+8 mystery  movies
+7 war  movies
+3 western  movies
+
+
+Released in 2001
+48 action movies
+26 adventure  movies
+17 animation  movies
+127 comedy  movies
+36 crime  movies
+12 children's  movies
+12 documentary  movies
+148 drama  movies
+66 romance  movies
+20 fantasy  movies
+17 sci-fi  movies
+53 thriller  movies
+19 horror  movies
+7 musical  movies
+19 mystery  movies
+13 war  movies
+3 western  movies
+
+
+Released in 2002
+45 action movies
+37 adventure  movies
+13 animation  movies
+116 comedy  movies
+49 crime  movies
+19 children's  movies
+28 documentary  movies
+150 drama  movies
+58 romance  movies
+20 fantasy  movies
+27 sci-fi  movies
+72 thriller  movies
+27 horror  movies
+11 musical  movies
+21 mystery  movies
+8 war  movies
+2 western  movies
+
+
+Released in 2003
+66 action movies
+32 adventure  movies
+20 animation  movies
+109 comedy  movies
+48 crime  movies
+23 children's  movies
+22 documentary  movies
+129 drama  movies
+51 romance  movies
+18 fantasy  movies
+23 sci-fi  movies
+60 thriller  movies
+25 horror  movies
+7 musical  movies
+21 mystery  movies
+11 war  movies
+2 western  movies
+
+
+Released in 2004
+63 action movies
+44 adventure  movies
+18 animation  movies
+111 comedy  movies
+36 crime  movies
+19 children's  movies
+25 documentary  movies
+128 drama  movies
+52 romance  movies
+29 fantasy  movies
+31 sci-fi  movies
+57 thriller  movies
+28 horror  movies
+8 musical  movies
+19 mystery  movies
+13 war  movies
+3 western  movies
+
+
+Released in 2005
+59 action movies
+43 adventure  movies
+15 animation  movies
+120 comedy  movies
+42 crime  movies
+25 children's  movies
+24 documentary  movies
+140 drama  movies
+50 romance  movies
+22 fantasy  movies
+19 sci-fi  movies
+68 thriller  movies
+36 horror  movies
+8 musical  movies
+17 mystery  movies
+12 war  movies
+2 western  movies
+
+
+Released in 2006
+49 action movies
+38 adventure  movies
+26 animation  movies
+118 comedy  movies
+35 crime  movies
+22 children's  movies
+23 documentary  movies
+146 drama  movies
+54 romance  movies
+38 fantasy  movies
+25 sci-fi  movies
+76 thriller  movies
+33 horror  movies
+6 musical  movies
+25 mystery  movies
+10 war  movies
+1 western  movies
+
+
+Released in 2007
+48 action movies
+33 adventure  movies
+22 animation  movies
+102 comedy  movies
+40 crime  movies
+14 children's  movies
+18 documentary  movies
+142 drama  movies
+47 romance  movies
+24 fantasy  movies
+29 sci-fi  movies
+77 thriller  movies
+43 horror  movies
+9 musical  movies
+14 mystery  movies
+13 war  movies
+3 western  movies
+
+
+Released in 2008
+73 action movies
+50 adventure  movies
+23 animation  movies
+104 comedy  movies
+40 crime  movies
+22 children's  movies
+20 documentary  movies
+113 drama  movies
+47 romance  movies
+31 fantasy  movies
+32 sci-fi  movies
+60 thriller  movies
+23 horror  movies
+9 musical  movies
+15 mystery  movies
+16 war  movies
+5 western  movies
+
+
+Released in 2009
+59 action movies
+37 adventure  movies
+32 animation  movies
+111 comedy  movies
+39 crime  movies
+17 children's  movies
+12 documentary  movies
+131 drama  movies
+41 romance  movies
+32 fantasy  movies
+44 sci-fi  movies
+72 thriller  movies
+41 horror  movies
+7 musical  movies
+24 mystery  movies
+7 war  movies
+2 western  movies
+
+
+Released in 2010
+65 action movies
+30 adventure  movies
+18 animation  movies
+97 comedy  movies
+23 crime  movies
+17 children's  movies
+17 documentary  movies
+102 drama  movies
+41 romance  movies
+29 fantasy  movies
+19 sci-fi  movies
+56 thriller  movies
+24 horror  movies
+6 musical  movies
+16 mystery  movies
+7 war  movies
+5 western  movies
+
+
+Released in 2011
+55 action movies
+40 adventure  movies
+26 animation  movies
+101 comedy  movies
+26 crime  movies
+19 children's  movies
+22 documentary  movies
+110 drama  movies
+37 romance  movies
+19 fantasy  movies
+32 sci-fi  movies
+64 thriller  movies
+20 horror  movies
+3 musical  movies
+16 mystery  movies
+6 war  movies
+2 western  movies
+
+
+Released in 2012
+56 action movies
+31 adventure  movies
+25 animation  movies
+103 comedy  movies
+32 crime  movies
+10 children's  movies
+11 documentary  movies
+92 drama  movies
+31 romance  movies
+23 fantasy  movies
+28 sci-fi  movies
+54 thriller  movies
+27 horror  movies
+7 musical  movies
+9 mystery  movies
+5 war  movies
+1 western  movies
+
+
+Released in 2013
+61 action movies
+39 adventure  movies
+26 animation  movies
+89 comedy  movies
+35 crime  movies
+8 children's  movies
+8 documentary  movies
+98 drama  movies
+27 romance  movies
+28 fantasy  movies
+32 sci-fi  movies
+50 thriller  movies
+22 horror  movies
+1 musical  movies
+14 mystery  movies
+6 war  movies
+1 western  movies
+
+
+Released in 2014
+62 action movies
+35 adventure  movies
+15 animation  movies
+116 comedy  movies
+38 crime  movies
+15 children's  movies
+17 documentary  movies
+117 drama  movies
+35 romance  movies
+15 fantasy  movies
+32 sci-fi  movies
+60 thriller  movies
+28 horror  movies
+5 musical  movies
+16 mystery  movies
+8 war  movies
+3 western  movies
+
+
+Released in 2015
+63 action movies
+45 adventure  movies
+19 animation  movies
+104 comedy  movies
+30 crime  movies
+14 children's  movies
+19 documentary  movies
+101 drama  movies
+21 romance  movies
+21 fantasy  movies
+41 sci-fi  movies
+57 thriller  movies
+36 horror  movies
+1 musical  movies
+16 mystery  movies
+2 war  movies
+4 western  movies
+
+
+Released in 2016
+48 action movies
+36 adventure  movies
+22 animation  movies
+75 comedy  movies
+15 crime  movies
+13 children's  movies
+13 documentary  movies
+69 drama  movies
+18 romance  movies
+22 fantasy  movies
+29 sci-fi  movies
+41 thriller  movies
+16 horror  movies
+0 musical  movies
+8 mystery  movies
+3 war  movies
+1 western  movies
+
+
+Released in 2017
+38 action movies
+24 adventure  movies
+18 animation  movies
+56 comedy  movies
+13 crime  movies
+9 children's  movies
+10 documentary  movies
+45 drama  movies
+6 romance  movies
+14 fantasy  movies
+18 sci-fi  movies
+22 thriller  movies
+13 horror  movies
+0 musical  movies
+6 mystery  movies
+3 war  movies
+2 western  movies
+
+
+Released in 2018
+16 action movies
+12 adventure  movies
+3 animation  movies
+17 comedy  movies
+6 crime  movies
+3 children's  movies
+2 documentary  movies
+9 drama  movies
+1 romance  movies
+7 fantasy  movies
+13 sci-fi  movies
+13 thriller  movies
+4 horror  movies
+0 musical  movies
+5 mystery  movies
+0 war  movies
+0 western  movies
